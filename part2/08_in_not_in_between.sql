@@ -1,0 +1,3 @@
+-- IN -> value must match one item in from the list
+-- NOT IN -> value must not match any thing from the list
+--
