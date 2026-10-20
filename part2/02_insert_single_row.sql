@@ -8,7 +8,7 @@ VALUES
     10,
     'LAP-HP-002',
     'Core i7 7th Gen, 16GB RAM, 512GB SSD'
-  );
+  ) RETURNING *;
 
 SELECT
   *
